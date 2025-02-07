@@ -9,7 +9,7 @@ permalink: /HW2/
 
 ## This is a heading
 
-###Here's a smaller heading
+### Here's a smaller heading
 
 This is a paragraph
 
@@ -24,7 +24,7 @@ This is a paragraph
   - item a
   - item b
 
- ### Ordered
+### Ordered
 
  1. Item 1
  2. Item 2
