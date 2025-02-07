@@ -22,7 +22,7 @@ title: Homework assignment 2
 email: htwilliams28@jcu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is the Homework assignment number 2 for CS 2250 Web Programming due 02/12/2025
-baseurl: "Assignments" # the subpath of your site, e.g. /blog
+baseurl: "homework.github.io" # the subpath of your site, e.g. /blog
 URL: "https://Homework2.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
