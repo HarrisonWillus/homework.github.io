@@ -15,7 +15,7 @@ This is a paragraph
 
 **This will be bold ~~This will be strike through~~ This will be underlined**
 
-## List
+## Lists
 
 ### Unordered
 
@@ -31,7 +31,7 @@ This is a paragraph
  3. Item 3
  4. Item 3a
 
-### Table
+## Table
 
 | Command | Description|
 |---------|------------|
